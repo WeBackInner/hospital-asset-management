@@ -67,7 +67,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Hospital Asset Management</h1>
+      <h1>Hospital Asset Management System</h1>
       <table>
         <thead>
           <tr>
